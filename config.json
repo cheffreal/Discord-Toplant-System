@@ -1,0 +1,15 @@
+{
+  "token": "BOT TOKEN",
+  "prefix": "!",
+  "roller": {
+    "toplantiLideri": "SORUMLU ROL ID",
+    "sorunCozme": "SORUMLU ROL ID",
+    "yayinciToplantisi": "SORUMLU ROL ID",
+    "chatToplantisi": "SORUMLU ROL ID",
+    "yardimciToplantisi": "SORUMLU ROL ID",
+    "yetkiliAlimToplantisi": "SORUMLU ROL ID"
+  },
+  "kategoriler": {
+    "toplantilar": "TOPLANTI KATEGORİ ID"
+  }
+}

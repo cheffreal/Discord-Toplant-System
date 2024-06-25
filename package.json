@@ -1,0 +1,13 @@
+{
+  "name": "discord-toplanti-bot",
+  "version": "1.0.0",
+  "description": "Public sunucularında kullanımı kolay olan bir toplantı botu.",
+  "main": "cheff.js",
+  "scripts": {
+    "start": "node cheff.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
