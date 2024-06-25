@@ -4,6 +4,8 @@ Public sunucular için toplantı butonlu güzel bir sistem
  Bot dahada geliştirilebilir ben şimdilik böyle basit birşey yapıp attım toplantı lider için üşendim ayrı ayrı id eklemeyi x diye rol açıp verirsiniz liderlerin üstüne ibşey olmaz yada hepsini eklersiniz tek tek
 
 Sorun yaşarsanız iletişime geçersiniz DCİD= "427907040220807169"   Çok profesyonel yada uzman bir botcu değilm kafama göre estikçe bişeyler deniyorum buraya yüklüyorum 
+
+Zaten resimde gördüğünüz gibi bot hadi eyw <3
  
 ![toplantıbildiri](https://github.com/cheffreal/Discord-Toplant-System/assets/79940056/963f64a8-f0b0-472b-906f-3928efcc51cf)
 ![toplantıbutonlar](https://github.com/cheffreal/Discord-Toplant-System/assets/79940056/2f7cace9-8860-4576-b25b-bfdd8507de82)
